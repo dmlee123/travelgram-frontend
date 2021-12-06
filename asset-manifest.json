@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/travelgram-frontend/static/css/main.02945d76.chunk.css",
+    "main.js": "/travelgram-frontend/static/js/main.0b6c9515.chunk.js",
+    "main.js.map": "/travelgram-frontend/static/js/main.0b6c9515.chunk.js.map",
+    "runtime-main.js": "/travelgram-frontend/static/js/runtime-main.44a3d9c2.js",
+    "runtime-main.js.map": "/travelgram-frontend/static/js/runtime-main.44a3d9c2.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/travelgram-frontend/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.a92cdec4.chunk.js": "/travelgram-frontend/static/js/2.a92cdec4.chunk.js",
+    "static/js/2.a92cdec4.chunk.js.map": "/travelgram-frontend/static/js/2.a92cdec4.chunk.js.map",
+    "index.html": "/travelgram-frontend/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/travelgram-frontend/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.02945d76.chunk.css.map": "/travelgram-frontend/static/css/main.02945d76.chunk.css.map",
+    "static/js/2.a92cdec4.chunk.js.LICENSE.txt": "/travelgram-frontend/static/js/2.a92cdec4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44a3d9c2.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.a92cdec4.chunk.js",
+    "static/css/main.02945d76.chunk.css",
+    "static/js/main.0b6c9515.chunk.js"
+  ]
+}
